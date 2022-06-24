@@ -10,4 +10,4 @@ https://www.tynker.com/community/profiles/60450033fbec304856017b45
 Minecraft Bedrock Server: sneakyfun.aternos.me
 Server Port: 35734
 
-![](https://github-readme-stats.vercel.app/api?username=ST5Sneaky9&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![](https://github-readme-stats.vercel.app/api?username=ST5Sneaky&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
