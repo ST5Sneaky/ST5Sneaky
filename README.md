@@ -2,13 +2,12 @@
 
 ## what am i? an alien? or a human?
 
-i am human. and i write code
-fluent in: python, html, and css
+i am human. and i write code\n
+fluent in: python, html, and css\n
 i like things
 
 ## being a bit social
-scratch: [`SneakyTank5`](https://scratch.mit.edu/users/SneakyTank5/)
- 
+scratch: [`SneakyTank5`](https://scratch.mit.edu/users/SneakyTank5/)\n
 repl.it: [`@ST5Sneaky`](https://replit.com/@ST5Sneaky)
 
 ## stats
