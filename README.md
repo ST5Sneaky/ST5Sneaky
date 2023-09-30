@@ -1,12 +1,18 @@
-I am a Scratcher, i have 1000+ projects, i love GD & Just Shapes & Beats!
-Message record on scratch: 747!
+<h1 align="center">you have found a wild github profile! 🤣🤣😳😳</h1>
 
-Mario Maker 2 ID: 3T4-SDT-D7G
-GD: ST5Playz
-Switch: ST5
-Alt on scratch: @ST5Animate
-Tynker:
-https://www.tynker.com/community/profiles/60450033fbec304856017b45
+## what am i? an alien? or a human?
 
+i am human. and i write code
+fluent in: python, html, and css
+i like things
 
+## being a bit social
+scratch: [`SneakyTank5`](https://scratch.mit.edu/users/SneakyTank5/)
+repl.it: [`@ST5Sneaky`](https://replit.com/@ST5Sneaky)
+
+## stats
 ![](https://github-readme-stats.vercel.app/api?username=ST5Sneaky&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+## WOAS!!! OTHER THINGS!!
+[mystery link](https://replit.com/mark)
+
