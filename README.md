@@ -7,7 +7,6 @@ fluent in: python, html, and css
 i like things
 
 ## being a bit social
-scratch: [`SneakyTank5`](https://scratch.mit.edu/users/SneakyTank5/)
 repl.it: [`@ST5Sneaky`](https://replit.com/@ST5Sneaky)
 
 ## stats
